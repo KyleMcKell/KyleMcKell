@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [https://dev.to/kylemckell](https://dev.to/kylemckell)
 
-- 💬 Ask me about **coffee!**
-
 - 📫 How to reach me **kyle@kylemckell.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylemckell&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=434c5e&locale=en&layout=compact" alt="kylemckell" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylemckell&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=434c5e&locale=en" alt="kylemckell" /></p>
+
+- ☕ Let's get coffee sometime
