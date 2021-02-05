@@ -18,7 +18,7 @@
 <a href="https://dev.to/kylemckell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kylemckell" height="30" width="40" /></a>
 <a href="https://twitter.com/kylemckell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kylemckell" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kyle-mckell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kyle-mckell" height="30" width="40" /></a>
-<a href="https://instagram.com/kylemckell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kylemckell" height="30" width="40" /></a>
+<a href="https://instagram.com/kyle_mckell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kylemckell" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
