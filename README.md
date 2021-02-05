@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle McKell</h1>
-<h3 align="center">A passionate web developer from Colorado</h3>
+<h3 align="center">Web Developer 💻 and Coffee Lover ☕ from Colorado ⛰</h3>
 
 - 🔭 I’m currently working on [my portfolio!](https://kylemckell.com)
 
@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylemckell&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=434c5e&locale=en&layout=compact" alt="kylemckell" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylemckell&show_icons=true&title_color=eceff4&text_color=d8dee9&bg_color=434c5e&locale=en" alt="kylemckell" /></p>
-
-- ☕ Let's get coffee sometime
