@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, Node**
 
-- 🤝 I’m looking for help with **mentorship**
+- 🤝 I’m currently seeking a mentor
 
 - 👨‍💻 All of my projects are available at [https://kylemckell.com](https://kylemckell.com)
 
 - 📝 I write articles on [https://dev.to/kylemckell](https://dev.to/kylemckell)
 
-- 📫 [Email Me](kyle@kylemckell.com)
+- 📫 [Shoot me an email!](kyle@kylemckell.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
