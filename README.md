@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle McKell</h1>
-<h3 align="center">Web Developer 💻 and Coffee Lover ☕ from Colorado ⛰</h3>
+<h3 align="center">React Developer 💻 Coffee Lover ☕ Colorado ⛰</h3>
 
 - 🔭 I’m currently working on [my portfolio!](https://kylemckell.com)
 
