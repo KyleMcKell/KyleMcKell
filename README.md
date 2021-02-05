@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kylemckell.com](https://kylemckell.com)
 
-- 📝 I regularly write articles on [https://dev.to/kylemckell](https://dev.to/kylemckell)
+- 📝 I write articles on [https://dev.to/kylemckell](https://dev.to/kylemckell)
 
 - 📫 How to reach me **kyle@kylemckell.com**
 
