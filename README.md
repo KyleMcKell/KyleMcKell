@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kyle McKell</h1>
 <h3 align="center">React Developer 💻 Coffee Lover ☕ Colorado ⛰</h3>
 
-- 🔭 I’m currently working on Colt Steele's Web Dev Bootcamp, specifically for the backend section
+- 🔭 I’m currently working on making cool React Projects!
 
-- 🌱 I’m currently learning **ReactJS, MongoDB, Node**
+- 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m currently seeking a mentor
+- 🤝 I’m currently seeking a Junior Dev Role
 
 - 👨‍💻 All of my projects are available at [https://kylemckell.com](https://kylemckell.com)
 
