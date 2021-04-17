@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on making cool React Projects!
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React and Node**
 
 - 🤝 I’m currently seeking a Junior Dev Role
 
