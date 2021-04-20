@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on making cool React Projects!
 
-- 🌱 I’m currently learning **React, Node, PostgreSQL**
+- 🌱 I’m currently learning **PERN/MERN stacks**
 
 - 🤝 I’m currently seeking a Junior Dev Role
 
