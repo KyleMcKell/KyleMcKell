@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kyle McKell</h1>
 <h3 align="center">🦆 React Developer 💻 Coffee Lover ☕ Colorado ⛰</h3>
 
-- 🔭 I’m currently working on making cool React Projects!
+- 🔭 I’m currently working on making a coffee website using the PERN Stack!
 
-- 🌱 I’m currently learning **PERN/MERN stacks**
+- 🌱 I’m currently learning **user authentication**
 
 - 🤝 I’m currently seeking a Junior Dev Role
 
