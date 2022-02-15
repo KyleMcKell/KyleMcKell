@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [my dev.to blog](https://dev.to/kylemckell)
 
-- 📫 Shoot me an [email](me@kylemckell.com)!
+- 📫 Shoot me an [email](mailto:me@kylemckell.com)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
