@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle McKell</h1>
-<h3 align="center">🦆 React Developer 💻 Coffee Lover ☕ Colorado ⛰</h3>
-
-- 🔭 I’m currently working on [AeroPress Tracker](https://aeropresstracker.com)!
-
-- 🌱 I’m currently learning **Testing** with [Testing JavaScript](https://testingjavascript.com/)
-
-- 🤝 I’m currently seeking a Junior Dev Role
+<h3 align="center">🦆 React Developer 💻 Coffee Lover ☕ Rock Climber ⛰</h3>
 
 - 👨‍💻 Check me out at [my portfolio](https://kylemckell.com)
-
-- 📝 I sometimes write articles on [my dev.to blog](https://dev.to/kylemckell)
-
-- 📫 Shoot me an [email](mailto:me@kylemckell.com)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
